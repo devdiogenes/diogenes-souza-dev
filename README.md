@@ -1,8 +1,10 @@
-Criador do site e canal **Mundo dos Computadores** <br/>
+Criador do site e canal **Mundo dos Computadores** 
 <br/>
--> Professor particular de informática e programação<br/>
--> Desenvolvedor WEB full-stack<br/>
--> Buscando cada dia me aprimorar :-)<br/>
+-> Professor particular de informática e programação
+
+-> Desenvolvedor WEB full-stack
+
+-> Buscando cada dia me aprimorar :-)
 <br/>
 Siga me no Instagram: @mundodoscomputadores.online
 
