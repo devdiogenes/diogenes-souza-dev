@@ -4,7 +4,7 @@ Criador do site e canal **Mundo dos Computadores**
 
 -> Desenvolvedor WEB full-stack
 
--> Buscando cada dia me aprimorar :-)
+-> Buscando cada dia me aprimorar
 <br/>
 Siga me no Instagram: @mundodoscomputadores.online
 
