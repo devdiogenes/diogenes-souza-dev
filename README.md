@@ -1,12 +1,12 @@
-Criador do site e canal **Mundo dos Computadores** 
+Owner of brazilian YouTube Channel **Mundo dos Computadores** 
 <br/>
--> Professor particular de informática e programação
+-> Virtual programming and computing teacher;
 
--> Desenvolvedor WEB full-stack
+-> Full-stack web developer;
 
--> Buscando cada dia me aprimorar
+-> Bringing be better every day.
 <br/>
-Siga me no Instagram: @mundodoscomputadores.online
+Follow-me on Instagram: @mundodoscomputadores.online (Portuguese only)
 
 <!---
 diogenes-souza-dev/diogenes-souza-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
