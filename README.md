@@ -1,12 +1,14 @@
-Owner of brazilian YouTube Channel **Mundo dos Computadores** 
-<br/>
--> Virtual programming and computing teacher;
+# I'm Diógenes Souza, A brazilian developer :computer:
 
--> Full-stack web developer;
+* Virtual programming and computing instructor;
 
--> Bringing be better every day.
-<br/>
+* Full-stack web developer;
+
+* Bringing be better every day.
+
+
 Follow-me on Instagram: @mundodoscomputadores.online (Portuguese only)
+
 
 <!---
 diogenes-souza-dev/diogenes-souza-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
