@@ -6,8 +6,9 @@
 
 * Bringing be better every day.
 
+## Where I am: 
 
-Follow-me on Instagram: @mundodoscomputadores.online (Portuguese only)
+Instagram: @mundodoscomputadores.online (Content in portuguese)
 
 
 <!---
