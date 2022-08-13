@@ -10,6 +10,17 @@
 
 Instagram: @mundodoscomputadores.online (Content in portuguese)
 
+## What I use: 
+
+* CSS
+
+* HTML
+
+* JavaScript
+
+* PHP
+
+* Python
 
 <!---
 diogenes-souza-dev/diogenes-souza-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
