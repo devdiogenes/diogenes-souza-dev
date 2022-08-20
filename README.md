@@ -20,6 +20,8 @@ Instagram: @mundodoscomputadores.online (Content in portuguese)
 
 * HTML
 
+* Inkscape
+
 * JavaScript
 
 * LibreOffice
