@@ -16,6 +16,8 @@ Instagram: @mundodoscomputadores.online (Content in portuguese)
 
 * Debian
 
+* Fedora
+
 * GIMP
 
 * HTML
