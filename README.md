@@ -8,7 +8,7 @@
 
 ## Where I am: 
 
-Instagram: @mundodoscomputadores.online (Content in portuguese)
+Instagram: @mundodoscomputadores.online (Content in portuguese).
 
 ## What I use: 
 
