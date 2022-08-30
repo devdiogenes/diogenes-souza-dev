@@ -1,4 +1,4 @@
-# I'm Diógenes Souza, A brazilian developer :computer:
+# I'm Diógenes Souza, A brazilian developer
 
 * Virtual programming and computing instructor;
 
