@@ -8,7 +8,9 @@
 
 ## Where I am: 
 
-Instagram: @mundodoscomputadores.online (Content in portuguese).
+* Instagram: @mundodoscomputadores.online (Content in portuguese);
+
+* YouTube: https://www.youtube.com/c/mundodoscomputadores (Content in portuguese).
 
 ## What I use: 
 
