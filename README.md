@@ -12,7 +12,7 @@
 
 * YouTube: https://www.youtube.com/c/mundodoscomputadores (Content in portuguese).
 
-## What I use: 
+## Languages and tools: 
 
 * CSS
 
