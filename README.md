@@ -24,6 +24,8 @@
 
 * HTML
 
+* Inertia JS
+
 * Inkscape
 
 * JavaScript
