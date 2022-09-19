@@ -30,6 +30,8 @@
 
 * JavaScript
 
+* Laravel
+
 * LibreOffice
 
 * PHP
