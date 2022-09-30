@@ -34,9 +34,13 @@
 
 * LibreOffice
 
+* Linux
+
 * PHP
 
 * Python
+
+* Shell Script
 
 * Vue JS
 
